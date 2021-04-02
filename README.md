@@ -1,10 +1,7 @@
 ![小狗柯基 (1)](https://user-images.githubusercontent.com/81799558/113401569-29e3a000-93d6-11eb-8c78-2da33aaba1a4.png)
 
 
-DDoge Coin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-DDoge coin currently employs a simplified variant of scrypt.
-
+DDoge Coin,which was inspired by Dogecoin, is a cryptocurrency contributing to tipping culture.It currently employs a simplified variant of scrypt.
 
 ## License – Much license ⚖️
 DDoge Coin Core is released under the terms of the MIT license. See
